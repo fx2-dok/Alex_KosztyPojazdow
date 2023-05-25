@@ -1,0 +1,10 @@
+C:\Users\dawid\source\repos\Alex\KosztyPojazdow\bin\Debug\KosztyPojazdow.deps.json
+C:\Users\dawid\source\repos\Alex\KosztyPojazdow\bin\Debug\KosztyPojazdow.dll
+C:\Users\dawid\source\repos\Alex\KosztyPojazdow\bin\Debug\KosztyPojazdow.pdb
+C:\Users\dawid\source\repos\Alex\KosztyPojazdow\KosztyPojazdow\obj\Debug\KosztyPojazdow.csproj.AssemblyReference.cache
+C:\Users\dawid\source\repos\Alex\KosztyPojazdow\KosztyPojazdow\obj\Debug\KosztyPojazdow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\source\repos\Alex\KosztyPojazdow\KosztyPojazdow\obj\Debug\KosztyPojazdow.AssemblyInfoInputs.cache
+C:\Users\dawid\source\repos\Alex\KosztyPojazdow\KosztyPojazdow\obj\Debug\KosztyPojazdow.AssemblyInfo.cs
+C:\Users\dawid\source\repos\Alex\KosztyPojazdow\KosztyPojazdow\obj\Debug\KosztyPojazdow.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\Alex\KosztyPojazdow\KosztyPojazdow\obj\Debug\KosztyPojazdow.dll
+C:\Users\dawid\source\repos\Alex\KosztyPojazdow\KosztyPojazdow\obj\Debug\KosztyPojazdow.pdb
